@@ -18,3 +18,5 @@
 # Yönetim Paneli
 ![yönetim1](https://user-images.githubusercontent.com/97359852/162398700-c9d00289-2acb-4ded-ba99-15c40fac4bc3.png)
 ![yönetim2](https://user-images.githubusercontent.com/97359852/162398708-2928cc7c-703a-431f-a959-e5f49cbde5a4.png)
+
+#### not: henüz proje tamamlanmamıştır.
