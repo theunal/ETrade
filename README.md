@@ -1,7 +1,5 @@
 # [GitHub](https://github.com/theunal)  -    [Linkedin](https://www.linkedin.com/in/unal-yusuf/)
 
-# Kullanıcı görselleri
-
 ## Ana sayfa
 ![anasayfa](https://user-images.githubusercontent.com/97359852/162397594-b0ba6bb3-d4f1-4790-b03a-248ae1e8d9fd.png)
 
